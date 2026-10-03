@@ -30,4 +30,4 @@ An interactive command-line application of the classic "Stone, Paper, Scissors" 
 ---
 
 ## 📬 Contact & Connect
-* **GitHub:** [Your Profile Link]
+https://github.com/almonajedmohammad56-wq/GAME-XO
